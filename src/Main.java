@@ -6,6 +6,7 @@ import java.util.Scanner;
  *
  * Contiene el menú que permite al usuario
  * registrar, deshacer, rehacer y consultar pedidos.
+ * 
  */
 public class Main {
 
