@@ -187,3 +187,5 @@ De esta manera se puede comprobar el funcionamiento de las dos pilas y de las op
 **Lenguaje:** Java
 **Tema:** Estructuras de datos – Pilas
 **Tipo de aplicación:** Consola
+
+**Video:** https://drive.google.com/file/d/1CN_4ZJHxfiTFNmurP56_92imlqNNNrrU/view?usp=sharing
